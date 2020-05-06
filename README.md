@@ -21,3 +21,13 @@ translates to
 ### indels in MAF:
 
 types: 'indel', 'insertion', 'deletion', 'sequence_alteration'
+
+
+
+### merge these??
+
+```
+Unknown,0,.,GRCh37,15,60051999,60051999,+,IGR,SNP,A,A,G,rs377509783,,TUMOR,HCC1395,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,G,,,,intergenic_variant,,,,,,rs377509783,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MODIFIER,1,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,,,,,,
+Unknown,0,.,GRCh37,15,60051999,60051999,+,IGR,SNP,A,A,G,rs377509783,,TUMOR,HCC1395,A,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,TG,,,,intergenic_variant,,,,,,rs377509783,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MODIFIER,1,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,,,,,,
+```
+
